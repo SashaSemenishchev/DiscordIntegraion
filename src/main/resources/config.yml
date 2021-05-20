@@ -1,0 +1,12 @@
+
+guest-role-id: '778261548476137523'
+default-role-id: '778254756782145538'
+guild-id: 778248042331242506
+bot-token: NjYwNTcxNzk2NDc0NTYwNTIz.XgezbQ.yo6P0W1yawnHPDoZf1XgHCp3zJQ
+linked-role-id: 778254756782145538
+main-channel:
+  id: 778249498480214027
+  prefix: '!'
+  webhook-url: https://discordapp.com/api/webhooks/778333683874398249/l0Sdo6QFUYCUZ6e4uJ8CpsCq0j4dsrgHACJZDORj1nJtWSrx2r9qb_Gce3hJWBkQPv-r
+
+discords:

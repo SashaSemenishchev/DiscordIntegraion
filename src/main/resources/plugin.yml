@@ -1,0 +1,10 @@
+name: DiscordMinecraft
+version: ${project.version}
+main: me.mrfunnny.plugins.spigot.discordminecraft.DiscordMinecraft
+api-version: 1.16
+load: STARTUP
+loadbefore: [EpicWorldGenerator]
+softdepend: [SpigotDiscordAuth]
+
+commands:
+  discord:
